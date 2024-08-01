@@ -19,7 +19,9 @@ This project implements an AI-powered recommendation engine for an e-commerce pl
 
 ## Installation
 
-1. Download the repository
+1. Clone the repository:
+git clone https://github.com/dogarelu/ecommerce-recommender.git
+
 2. Create a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate  # On Windows, use venv\Scripts\activate
